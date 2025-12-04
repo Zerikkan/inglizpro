@@ -1,0 +1,7 @@
+{
+  "name": "InglizPro AI",
+  "description": "Sun'iy intellekt yordamida ingliz tilini o'rganish uchun mukammal yordamchi. Grammatika, so'z boyligi va suhbat amaliyoti.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
